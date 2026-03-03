@@ -29,4 +29,5 @@ class UnifiedFooter extends HTMLElement {
         `;
     }
 }
+
 customElements.define('my-footer', UnifiedFooter);
