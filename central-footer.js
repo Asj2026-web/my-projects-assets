@@ -13,7 +13,7 @@ class UnifiedFooter extends HTMLElement {
 
     // ✅ عدّل هذه القائمة حسب مشاريعكم
     const projects = [
-      { name: "مستشار إعادة التمويل المبسّط", url: "https://asj2026-web.github.io/financial-advisor/" },
+      { name: "مستشار إعادة التمويل المبسّط", url: "https://financial-advisor-5gp.pages.dev/" },
       { name: "حاسبة المستحقات التقاعدية للمعلمين", url: "https://tr-bwl.pages.dev/?v=1" },
       // أضف مشاريع أخرى هنا...
       // { name: "اسم المشروع", url: "https://..." },
@@ -304,3 +304,4 @@ class UnifiedFooter extends HTMLElement {
 }
 
 customElements.define("my-footer", UnifiedFooter);
+
